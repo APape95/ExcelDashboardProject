@@ -1,7 +1,7 @@
 # 📊 Excel Dashboard Project
 
 ## 🚀 Project Overview
-This project demonstrates the creation of an **interactive sales dashboard** using **Microsoft Excel**. It showcases how to use various Excel functions and features to analyse data, build pivot tables and charts, and create a visually appealing dashboard. The project is ideal for those looking to enhance their Excel skills, especially in data analysis, reporting, and dashboard creation.
+This project demonstrates the creation of an **interactive sales dashboard** using **Microsoft Excel**. It showcases how to use various Excel functions and features to analyse data, build pivot tables and charts, and create a visually appealing dashboard.
 
 ### 🎯 Project Goals
 - Analyze sales data using **advanced Excel functions** such as **XLOOKUP**, **INDEX MATCH**, and **IF functions**.
