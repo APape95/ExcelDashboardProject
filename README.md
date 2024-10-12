@@ -1,7 +1,7 @@
 # 📊 Excel Dashboard Project
 
 ## 🚀 Project Overview
-This project demonstrates the creation of an **interactive sales dashboard** using **Microsoft Excel**. It showcases how to use various Excel functions and features to analyze data, build pivot tables and charts, and create a visually appealing dashboard. The project is ideal for those looking to enhance their Excel skills, especially in data analysis, reporting, and dashboard creation.
+This project demonstrates the creation of an **interactive sales dashboard** using **Microsoft Excel**. It showcases how to use various Excel functions and features to analyse data, build pivot tables and charts, and create a visually appealing dashboard. The project is ideal for those looking to enhance their Excel skills, especially in data analysis, reporting, and dashboard creation.
 
 ### 🎯 Project Goals
 - Analyze sales data using **advanced Excel functions** such as **XLOOKUP**, **INDEX MATCH**, and **IF functions**.
@@ -24,16 +24,11 @@ This project demonstrates the creation of an **interactive sales dashboard** usi
 - **Dashboard Design**: Building an intuitive and interactive dashboard using **Pivot Charts**, **Slicers**, and **Timelines**.
 - **Advanced Excel Formulas**: Applying **XLOOKUP**, **INDEX MATCH**, and **IF functions** for data retrieval and logic.
 
-## 🚀 Getting Started
-To replicate or explore this project on your own:
-
-1. **Download the repository:**
-   ```bash
-   git clone https://github.com/APape95/ExcelDashboardProject.git
-   cd ExcelDashboardProject
-
 ## 🖼 Dashboard Preview
 Here's a preview of the completed dashboard:
+
+![Excel Dashboard Preview](https://github.com/APape95/ExcelDashboardProject/blob/main/Screenshot%202024-10-12%20213106.png)
+
 
 ## ✨ Key Insights
 Sales Trends: Visualize monthly and quarterly sales trends to identify peak periods.
