@@ -36,10 +36,5 @@ Product Performance: Analyze top-performing products and regions using Pivot Tab
 Dynamic Filtering: Use Slicers and Timelines to filter data by dates, regions, and categories for in-depth analysis.
 Efficiency: Learn tips to keep the data source updated and refresh the dashboard with new data effortlessly.
 
-## 🧠 Lessons Learned
-Mastered the use of XLOOKUP and INDEX MATCH for advanced data lookup.
-Improved skills in data visualization and interactive dashboard design.
-Gained insights into using Pivot Tables effectively for large datasets.
-
 ## 📬 Contact
 For any questions or feedback, feel free to reach out:
